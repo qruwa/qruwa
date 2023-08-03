@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qruwa
+- 👋 Hi, I’m bredzislaw
 - 👀 I’m interested in game dev
 - 🌱 I’m currently learning unity, pixel art
 - 💞️ I’m looking to collaborate on ...
